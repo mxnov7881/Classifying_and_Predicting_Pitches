@@ -1,0 +1,7 @@
+des
+mlbam_pitch_name
+p_throws
+park_sv_id
+pdes
+pitcher_team
+stand
